@@ -1,3 +1,11 @@
+
+# Real time Todo List - Vue2 Laravel Socket.js
+
+###   Parth Rai
+
+#### Laravel 5.2 , Vue2, Socket.js
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
